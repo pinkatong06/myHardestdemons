@@ -1,0 +1,18 @@
+{
+    "id": 55520,
+    "name": "The lightning road",
+    "author": "Timeless real",
+    "creators": "Timeless real",
+    "verifier": "Timeless real",
+    "verification": "https://youtu.be/smwunc7UiHk?si=EhKfB4Q5eguKmuP3",
+    "percentToQualify": "80",
+    "password": "808080",
+    "records": [
+        {
+            "user": "Pinkatong06",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": "100",
+            "hz": 60
+        }
+    ]
+}
