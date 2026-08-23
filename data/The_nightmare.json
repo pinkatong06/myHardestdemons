@@ -1,0 +1,19 @@
+{
+{
+    "id": 13519,
+    "name": "The Nightmare",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "Jax",
+    "verification": "https://youtu.be/yVxKTQPzyus?si=OayhYxAQ0EHqpU1M",
+    "percentToQualify": 100,
+    "password": "7813",
+    "records": [
+        {
+            "user": "Pinkatong06",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
