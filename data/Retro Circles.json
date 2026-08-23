@@ -9,10 +9,10 @@
     "password": "free copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Pinkatong06",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 75,
-            "hz": 240
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
