@@ -16,21 +16,3 @@
         }
     ]
 }
-{
-    "id": 14000485,
-    "name": "Retro Circles2",
-    "author": "Nacho21",
-    "creators": ["Nacho21"],
-    "verifier": "Nacho21",
-    "verification": "https://youtu.be/yVxKTQPzyus?si=OayhYxAQ0EHqpU1M",
-    "percentToQualify": 50,
-    "password": "free copy",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 75,
-            "hz": 240
-        }
-    ]
-}
