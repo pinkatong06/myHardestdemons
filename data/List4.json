@@ -1,18 +1,18 @@
 {
     "id": 140004841,
     "name": "Retro Circles New",
-    "author": "Nacho21",
-    "creators": ["Nacho21"],
-    "verifier": "Nacho21",
+    "author": "Nacho211",
+    "creators": ["Nacho211"],
+    "verifier": "Nacho211",
     "verification": "https://youtu.be/yVxKTQPzyus?si=OayhYxAQ0EHqpU1M",
-    "percentToQualify": 50,
+    "percentToQualify": 60,
     "password": "free copy",
     "records": [
         {
             "user": "Pinkatong06",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 60
+            "percent": 99.9,
+            "hz": 240
         }
     ]
 }
