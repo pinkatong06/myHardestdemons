@@ -1,18 +1,18 @@
 {
     "id": 14000483,
-    "name": "Hello World",
-    "author": "Pinka",
-    "creators": "Pinka",
-    "verifier": "Pinka",
-    "verification": "https://youtu.be/yVxKTQPzyus?si=OayhYxAQ0EHqpU1M",
+    "name": "MachinA Deluxe",
+    "author": "Sink",
+    "creators": "Sink",
+    "verifier": "Sink",
+    "verification": "https://youtu.be/FEWWfQJHSoQ?si=tbj-ycBrNDE2PBpP",
     "percentToQualify": 60,
     "password": "free copy",
     "records": [
         {
             "user": "Pinkatong06",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 99.9,
-            "hz": 240
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
