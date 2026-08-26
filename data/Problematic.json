@@ -5,13 +5,13 @@
     "creators": "Dhafin",
     "verifier": "Dhafin",
     "verification": "https://youtu.be/YOAftabQ9kc?si=u64BhqdtbYr6ixOD",
-    "percentToQualify": "70",
+    "percentToQualify": 70,
     "password": "006701",
     "records": [
         {
             "user": "Pinkatong06",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": "100",
+            "percent": 100,
             "hz": 60
         }
     ]
