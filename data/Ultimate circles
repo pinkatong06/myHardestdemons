@@ -1,0 +1,18 @@
+{
+    "id": 13704546,
+    "name": "Ultimate circles",
+    "author": "Suomi",
+    "creators": "Suomi",
+    "verifier": "Suomi",
+    "verification": "https://youtu.be/dUdCkxltZBg?si=vjGGE-Ev14_zQ3uv",
+    "percentToQualify": 73,
+    "password": "201628",
+    "records": [
+        {
+            "user": "Pinkatong06",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
